@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Amazing TINDER CLONE made with React!
+
+All thanks to Nazi and Sunny!! 
+Youtube Link: https://www.youtube.com/watch?v=DQfeB_FKKkc&t=2752s
+Youtube Channel (Clever Programmer): https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ
 
 ## Available Scripts
 
