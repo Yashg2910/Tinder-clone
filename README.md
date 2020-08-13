@@ -1,5 +1,7 @@
 Amazing TINDER CLONE made with React!
 
+Hosting: https://tinder-clone-2b487.firebaseapp.com/
+
 All thanks to Qazi and Sunny!! 
 Youtube Link: https://www.youtube.com/watch?v=DQfeB_FKKkc&t=2752s
 Youtube Channel (Clever Programmer): https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ
